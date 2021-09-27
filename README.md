@@ -1,7 +1,7 @@
-# blood_cell_detection_yolo
+# Blood cell detection with YOLOv3
 
-Recognizing blood cells in microscopic images plays a huge role in assessing a patient's health. Manual analysis is usually time consuming and error prone. Here we utilized one-stage detector, Yolov3, to recognize white blood cells, red blood cells, and platelets.
+Recognizing blood cells in microscopic images plays a huge role in assessing a patient's health. Manual analysis is usually time consuming and error prone. Here we utilized one-stage detector, Yolov3, to recognize white blood cells, red blood cells, and platelets. This is an example of model output.
 
-![image](https://user-images.githubusercontent.com/24762837/134982630-d69529ec-5e5b-43a8-9a66-937f17be898a.png)
+<img src="https://user-images.githubusercontent.com/24762837/134983976-f08e1719-4f16-491f-958e-7fda53311002.png" alt="pic1" width="1000"/>
 
-![image](https://user-images.githubusercontent.com/24762837/134982675-f02fdb56-9750-4e3b-8a01-701c64c5a8fd.png)
+
